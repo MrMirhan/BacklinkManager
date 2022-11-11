@@ -540,6 +540,8 @@ freemail_domains latchess.com loveis.lv lv-inter.net pookmail.com sexriga.lv
 # Microsoft's new service 2013-10-18-khopesh
 freemail_domains *.onmicrosoft.com
 
+# Mail6
+freemail_domains *.mail6.xyz mail6.xyz
 
 endif
 
